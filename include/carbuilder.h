@@ -21,10 +21,13 @@ class CarBuilder : public Builder{
     void reset() override {this->car = new Car();}
 
     //Production steps with same car instance
-    void setEngine(std::string &engine) override;
-    void setSeats(std::string &seats) override;
-    void setTripComputer(std::string &tripComputer) override;
-    void setGPS(std::string &gps) override;
+    void setEngine(const std::string &engine) override;
+    void setSeats(const std::string &seats) override;
+    void setTripComputer(const std::string &tripComputer) override;
+    void setGPS(const std::string &gps) override;
+
+    void setColor(const std::string& color) override;
+    void setSunroof(bool hasSunroof) override;
 
     Car* GetProduct();
 };

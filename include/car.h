@@ -8,7 +8,8 @@
 
 class Car{
   public:
-    std::string engine, seats, tripComputer, gps;
+    std::string engine, seats, tripComputer, gps, color;
+    bool hasSunroof; 
 
     void listFeatures() const;
 };

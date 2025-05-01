@@ -71,3 +71,25 @@ void ClientCode3(Director &director){
   delete cbuilder;
   delete mbuilder;
 }
+
+std::pair<Car*, Manual*> ClientCode4(Director &director){
+  
+  CarBuilder *cbuilder = new CarBuilder();
+  ManualBuilder *mbuilder = new ManualBuilder();
+
+  std::cout << "Luxury Car:\n";
+  director.makeLuxuryCar(cbuilder);
+  Car *luxuryCar = cbuilder->GetProduct();
+  luxuryCar->listFeatures(); // use
+  delete luxuryCar;
+
+  director.makeLuxuryCar(mbuilder);
+  Manual *luxuryManual = mbuilder->GetProduct();
+  luxuryManual->listFeatures(); // use
+  delete luxuryManual;
+
+  delete cbuilder;
+  delete mbuilder;
+
+  return {luxuryCar, luxuryManual}; 
+}

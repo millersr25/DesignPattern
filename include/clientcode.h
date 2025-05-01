@@ -27,4 +27,7 @@ void ClientCode2(Director &director);
 // smart pointers can be used
 void ClientCode3(Director &director); 
 
+// smart pointers can be used
+std::pair<Car*, Manual*> ClientCode4(Director &director); 
+
 #endif
