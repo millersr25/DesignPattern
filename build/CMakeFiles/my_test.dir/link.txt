@@ -1,0 +1,1 @@
+/usr/bin/g++ -g CMakeFiles/my_test.dir/src/car.cpp.o CMakeFiles/my_test.dir/src/carbuilder.cpp.o CMakeFiles/my_test.dir/src/clientcode.cpp.o CMakeFiles/my_test.dir/src/director.cpp.o CMakeFiles/my_test.dir/src/manual.cpp.o CMakeFiles/my_test.dir/src/manualbuilder.cpp.o CMakeFiles/my_test.dir/tests/test.cpp.o -o my_test 

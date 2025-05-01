@@ -1,0 +1,86 @@
+[
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/designPattern.dir/src/main.cpp.o -c /home/millersam/DesignPattern/src/main.cpp",
+  "file": "/home/millersam/DesignPattern/src/main.cpp",
+  "output": "CMakeFiles/designPattern.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/designPattern.dir/src/car.cpp.o -c /home/millersam/DesignPattern/src/car.cpp",
+  "file": "/home/millersam/DesignPattern/src/car.cpp",
+  "output": "CMakeFiles/designPattern.dir/src/car.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/designPattern.dir/src/carbuilder.cpp.o -c /home/millersam/DesignPattern/src/carbuilder.cpp",
+  "file": "/home/millersam/DesignPattern/src/carbuilder.cpp",
+  "output": "CMakeFiles/designPattern.dir/src/carbuilder.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/designPattern.dir/src/clientcode.cpp.o -c /home/millersam/DesignPattern/src/clientcode.cpp",
+  "file": "/home/millersam/DesignPattern/src/clientcode.cpp",
+  "output": "CMakeFiles/designPattern.dir/src/clientcode.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/designPattern.dir/src/director.cpp.o -c /home/millersam/DesignPattern/src/director.cpp",
+  "file": "/home/millersam/DesignPattern/src/director.cpp",
+  "output": "CMakeFiles/designPattern.dir/src/director.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/designPattern.dir/src/manual.cpp.o -c /home/millersam/DesignPattern/src/manual.cpp",
+  "file": "/home/millersam/DesignPattern/src/manual.cpp",
+  "output": "CMakeFiles/designPattern.dir/src/manual.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/designPattern.dir/src/manualbuilder.cpp.o -c /home/millersam/DesignPattern/src/manualbuilder.cpp",
+  "file": "/home/millersam/DesignPattern/src/manualbuilder.cpp",
+  "output": "CMakeFiles/designPattern.dir/src/manualbuilder.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/my_test.dir/src/car.cpp.o -c /home/millersam/DesignPattern/src/car.cpp",
+  "file": "/home/millersam/DesignPattern/src/car.cpp",
+  "output": "CMakeFiles/my_test.dir/src/car.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/my_test.dir/src/carbuilder.cpp.o -c /home/millersam/DesignPattern/src/carbuilder.cpp",
+  "file": "/home/millersam/DesignPattern/src/carbuilder.cpp",
+  "output": "CMakeFiles/my_test.dir/src/carbuilder.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/my_test.dir/src/clientcode.cpp.o -c /home/millersam/DesignPattern/src/clientcode.cpp",
+  "file": "/home/millersam/DesignPattern/src/clientcode.cpp",
+  "output": "CMakeFiles/my_test.dir/src/clientcode.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/my_test.dir/src/director.cpp.o -c /home/millersam/DesignPattern/src/director.cpp",
+  "file": "/home/millersam/DesignPattern/src/director.cpp",
+  "output": "CMakeFiles/my_test.dir/src/director.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/my_test.dir/src/manual.cpp.o -c /home/millersam/DesignPattern/src/manual.cpp",
+  "file": "/home/millersam/DesignPattern/src/manual.cpp",
+  "output": "CMakeFiles/my_test.dir/src/manual.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/my_test.dir/src/manualbuilder.cpp.o -c /home/millersam/DesignPattern/src/manualbuilder.cpp",
+  "file": "/home/millersam/DesignPattern/src/manualbuilder.cpp",
+  "output": "CMakeFiles/my_test.dir/src/manualbuilder.cpp.o"
+},
+{
+  "directory": "/home/millersam/DesignPattern/build",
+  "command": "/usr/bin/g++  -I/home/millersam/DesignPattern/include -g -std=gnu++23 -o CMakeFiles/my_test.dir/tests/test.cpp.o -c /home/millersam/DesignPattern/tests/test.cpp",
+  "file": "/home/millersam/DesignPattern/tests/test.cpp",
+  "output": "CMakeFiles/my_test.dir/tests/test.cpp.o"
+}
+]
